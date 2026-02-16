@@ -17,8 +17,8 @@ app.config['SECRET_KEY'] = 'your-secret-key-here'
 app.config['MAIL_SERVER'] = 'smtp.gmail.com'
 app.config['MAIL_PORT'] = 587
 app.config['MAIL_USE_TLS'] = True
-app.config['MAIL_USERNAME'] = 'вашапочта@gmail.com'  # ТВОЯ GMAIL
-app.config['MAIL_PASSWORD'] = 'ваш пароль'  # ПАРОЛЬ ОТ GMAIL
+app.config['MAIL_USERNAME'] = 'maxandandmaxikok@gmail.com'  # ТВОЯ GMAIL
+app.config['MAIL_PASSWORD'] = 'Maxime06360'  # ПАРОЛЬ ОТ GMAIL
 mail = Mail(app)
 
 # ===== WEBSOCKET ДЛЯ ЧАТА =====
